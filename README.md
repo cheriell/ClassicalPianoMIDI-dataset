@@ -11,5 +11,5 @@ The dataset contains 332 classical piano pieces from 25 composers, the total dur
 
 ## Metadata
 
-Please find metadata in `metadata.csv`..
+Please find metadata in `metadata.csv`.
 
