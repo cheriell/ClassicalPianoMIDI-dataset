@@ -1,7 +1,7 @@
 # ClassicalPianoMIDI-dataset
-Cleaned Classical Piano MIDI dataset from http://www.piano-midi.de/
+Classical Piano MIDI dataset at http://www.piano-midi.de/
 
-MIDI files updated in August, 2021.
+Last updated in August, 2021.
 
 ## Statistics
 
